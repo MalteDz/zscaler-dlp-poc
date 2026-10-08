@@ -1,2 +1,0 @@
-This is a normal project document.
-No source code is included.
